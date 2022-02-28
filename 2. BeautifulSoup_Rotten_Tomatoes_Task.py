@@ -1,3 +1,6 @@
+Is it working?
+
+
 #!/usr/bin/env python
 # coding: utf-8
 
@@ -500,3 +503,5 @@ movie_review.to_csv('movie_review.csv', index = False, header = True)
 # Index is set to False so that the index (0,1,2...) of each movie is not saved to the file (the index is purely internal)
 # The header is set to True, so that the names of the columns are saved
 
+
+Hi Tess 
